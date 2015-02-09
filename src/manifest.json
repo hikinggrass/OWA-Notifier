@@ -21,7 +21,7 @@
         "idle",
         "notifications",
         "webNavigation",
-        "<all_urls>",
+        "https://exchange.fzi.de/",
         "tabs",
         "background"
     ],
